@@ -1,52 +1,92 @@
-# Ahmed Saad
-### AI-Driven Marketing Director | Marketing Engineer | Data & Automation Specialist
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9uJmVwaD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVtoGMMfxvgtHJ/giphy.gif" width="35"> Ahmed Saad
+
+### 🚀 AI-Driven Marketing Director | Marketing Engineer | Data & Automation Specialist
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Experience-15+%20Years-blue?style=for-the-badge&logo=expert" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-orange?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Location-Egypt-green?style=for-the-badge&logo=google-maps" />
+</p>
 
 ---
 
-### 🚀 Professional Profile
-Senior technical professional with **15+ years of experience** bridging the gap between **Marketing Leadership**, **Data Analytics**, and **Software Engineering**. Specialized in architecting AI-driven marketing ecosystems, robust automation systems, and high-performance data pipelines. Proven track record of leading regional strategies across Egypt and the Middle East while building hands-on technical solutions.
+### 👨‍💻 About Me
+I am a senior technical professional bridging the gap between **Marketing Leadership**, **Data Analytics**, and **Software Engineering**. I specialize in architecting AI-driven marketing ecosystems, robust automation systems, and high-performance data pipelines.
+
+- 🔭 **Currently working on:** [AI Marketing Intelligence Platform](https://github.com/ahmedsaad181920h-dot/AI-Marketing-Intelligence-Platform)
+- 🌱 **Learning:** LLM Orchestration & Advanced Agentic Workflows
+- 💬 **Ask me about:** AI Automation, Python for Business, Marketing ROI Optimization
+- ⚡ **Fun fact:** I transform complex data into strategic marketing gold.
 
 ---
 
-### 🛠 Technical Expertise & Stack
+### 🛠 Technical Skills & Toolbox
 
-| Category | Technologies & Skills |
-| :--- | :--- |
-| **Languages** | Python (Data Analysis, Automation), SQL, Bash Scripting |
-| **AI & Automation** | AI Marketing Automation, Data Pipelines, Automation Workflows, Docker |
-| **Data & Analytics** | Data Analytics, Power BI, Google Analytics, Performance Analysis Models |
-| **Systems & Tools** | Linux Systems, CRM Integration, Dockerized Environments |
-| **Leadership** | Regional Marketing Strategy, Performance Marketing, Team Leadership |
+<details open>
+<summary><b>💻 Programming & Scripting</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/sql-CC0000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+</details>
+
+<details open>
+<summary><b>🤖 AI & Marketing Automation</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20Automation-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Marketing%20Tech-00AEEF?style=for-the-badge&logo=hubspot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Pipelines-FFCA28?style=for-the-badge&logo=apache-airflow&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>📊 Data Analytics & BI</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+</details>
 
 ---
 
-### 📈 GitHub Statistics
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsaad181920h-dot&show_icons=true&theme=transparent&hide_border=true&title_color=0366d6&icon_color=0366d6&text_color=586069)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaad181920h-dot&layout=compact&theme=transparent&hide_border=true&title_color=0366d6&text_color=586069)
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsaad181920h-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaad181920h-dot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsaad181920h-dot&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 🔭 Current Focus & Future Goals
-- **Currently Working On:** Developing an AI-powered Marketing Intelligence Platform to unify multi-channel data.
-- **Learning Goals:** Deepening expertise in LLM orchestration for automated marketing content optimization.
-- **Open To:** Strategic collaborations in AI Marketing Engineering and Automation Leadership.
-
----
-
-### 📜 Certifications
-- **AI in Marketing** – HubSpot (2023)
-- **Google Digital Marketing** – Google (2023)
-- **Data Analytics** – University of London (2022)
-- **Python for Business** – (2021)
+### 🏆 Certifications
+- 🎓 **AI in Marketing** – HubSpot
+- 🎓 **Google Digital Marketing** – Google
+- 🎓 **Data Analytics** – University of London
+- 🎓 **Python for Business**
 
 ---
 
 ### 📫 Connect with Me
-- **Email:** [ahmedsaad181920h@gmail.com](mailto:ahmedsaad181920h@gmail.com)
-- **Location:** Beni Suef, Egypt (Open to Remote & Relocation)
+<p align="left">
+  <a href="mailto:ahmedsaad181920h@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ahmedsaad181920h-dot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <i>"Transforming data into strategic marketing intelligence through automation and AI."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
