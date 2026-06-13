@@ -1,17 +1,17 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9ueW9uJmVwaD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVtoGMMfxvgtHJ/giphy.gif" width="35"> Ahmed Saad
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmed%20Saad&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedsaad181920h-dot&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 ### 🚀 AI-Driven Marketing Director | Marketing Engineer | Data & Automation Specialist
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Experience-15+%20Years-blue?style=for-the-badge&logo=expert" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-orange?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Location-Egypt-green?style=for-the-badge&logo=google-maps" />
-</p>
 
 ---
 
 ### 👨‍💻 About Me
-I am a senior technical professional bridging the gap between **Marketing Leadership**, **Data Analytics**, and **Software Engineering**. I specialize in architecting AI-driven marketing ecosystems, robust automation systems, and high-performance data pipelines.
+Senior professional with **15+ years of experience** combining marketing leadership, data analytics, and software engineering. Specialized in AI-driven marketing, automation systems, and data pipelines.
 
 - 🔭 **Currently working on:** [AI Marketing Intelligence Platform](https://github.com/ahmedsaad181920h-dot/AI-Marketing-Intelligence-Platform)
 - 🌱 **Learning:** LLM Orchestration & Advanced Agentic Workflows
@@ -20,40 +20,20 @@ I am a senior technical professional bridging the gap between **Marketing Leader
 
 ---
 
-### 🛠 Technical Skills & Toolbox
+### 🛠 Technical Skills
 
-<details open>
-<summary><b>💻 Programming & Scripting</b></summary>
-<br/>
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/sql-CC0000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,postgres,bash,linux,docker,github,githubactions,powerbi,postman,aws,gcp,git" />
+  </a>
 </p>
-</details>
 
-<details open>
-<summary><b>🤖 AI & Marketing Automation</b></summary>
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/AI%20Automation-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Marketing%20Tech-00AEEF?style=for-the-badge&logo=hubspot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Pipelines-FFCA28?style=for-the-badge&logo=apache-airflow&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-</details>
+---
 
-<details open>
-<summary><b>📊 Data Analytics & BI</b></summary>
-<br/>
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+### 🐍 My Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedsaad181920h-dot/ahmedsaad181920h-dot/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-</details>
 
 ---
 
@@ -83,6 +63,7 @@ I am a senior technical professional bridging the gap between **Marketing Leader
 <p align="left">
   <a href="mailto:ahmedsaad181920h@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ahmedsaad181920h-dot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-saad-b31600398"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
