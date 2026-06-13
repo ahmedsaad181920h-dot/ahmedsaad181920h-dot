@@ -30,13 +30,6 @@ Senior professional with **15+ years of experience** combining marketing leaders
 
 ---
 
-### 🐍 My Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedsaad181920h-dot/ahmedsaad181920h-dot/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
